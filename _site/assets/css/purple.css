@@ -1,0 +1,109 @@
+h1.purpletitle
+{
+font-size: 28pt;
+font-variant: small-caps;
+font-family: Arial, Helvetica, sans-serif;
+text-align: center;
+}
+h1.post-title, h2.post-title
+{
+font-size: 20pt;
+font-family: Arial, Helvetica, sans-serif;
+text-align: left;
+color: #421C52;
+}
+ul.post-list, a.post-link, h2
+{
+font-family: Arial, Helvetica, sans-serif;
+text-align: left;
+color: #421C52;
+}
+h3.category-head
+{
+    color: #421C52;
+}
+.navbar-purple
+{
+    background-color: #BDAEC6;
+    color: #732C7B;
+}
+.navbar-purple a:visited
+{
+    color: #732C7B;
+}
+.navbar-purple a:link
+{
+    color: #732C7B;
+}
+.navbar-purple a:hover
+{
+    color: #732C7B;
+}
+.navbar-purple a:active
+{
+    color: #732C7B;
+}
+h1 a:visited
+{
+    color: #732C7B;
+}
+h1 a:link
+{
+    color: #732C7B;
+}
+h1 a:hover
+{
+    color: #732C7B;
+}
+h1 a:active
+{
+    color: #732C7B;
+}
+h2 a:visited
+{
+    color: #732C7B;
+}
+h2 a:link
+{
+    color: #732C7B;
+}
+h2 a:hover
+{
+    color: #732C7B;
+}
+h2 a:active
+{
+    color: #732C7B;
+}
+h3 a:visited
+{
+    color: #732C7B;
+}
+h3 a:link
+{
+    color: #732C7B;
+}
+h3 a:hover
+{
+    color: #732C7B;
+}
+h3 a:active
+{
+    color: #732C7B;
+}
+h4 a:visited
+{
+    color: #732C7B;
+}
+h4 a:link
+{
+    color: #732C7B;
+}
+h4 a:hover
+{
+    color: #732C7B;
+}
+h4 a:active
+{
+    color: #732C7B;
+}
